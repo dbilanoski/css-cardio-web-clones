@@ -26,4 +26,4 @@
 - - -
 
 ## Clone Projects
-* [CodePen Clone](https://github.com/dbilanoski/css-cardio-web-clones/tree/master/clones/codepen_clone/)
+* [CodePen Clone](https://github.com/dbilanoski/css-cardio-web-clones/tree/master/clones/codepen_clone)
