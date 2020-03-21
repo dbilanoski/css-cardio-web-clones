@@ -1,0 +1,39 @@
+/* Imports */
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
+
+/* Colors */
+:root {
+	--white: #fff;
+	--almost-black: #1d1e22;
+	--black: #131417;
+	--light-grey: #d5d7de;
+	--grey: #9b9dad;
+	--dark-grey: #444857;
+	--darker-grey: #2c303a;
+	--gradient: radial-gradient(circle, #444857, #2c303a);
+}
+
+/* Resets & Globals */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+	display: block;
+}
+
+body {
+	background-color: var(--black);
+	color: var(--white);
+	height: 100vh;
+}
